@@ -1,0 +1,23 @@
+# --- Python/Django Pro ---
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# --- Environment/Secret Management ---
+.env
+venv/
+env/
+ENV/
+pip-log.txt
+Pipfile.lock 
+
+# --- OS & IDE Junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
